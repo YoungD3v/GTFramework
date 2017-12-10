@@ -6,5 +6,5 @@ package gtframework.domains.interfaces;
 public interface Player {
 
     int getPlayerId();
-    Action getNextAction(GameState gs);
+    
 }
